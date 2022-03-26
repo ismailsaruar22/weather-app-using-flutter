@@ -1,16 +1,9 @@
 # weather_app
 
-A new Flutter project.
+It's a flutter based live weather app developed using open weather map api.
+For user location detection I have used geolocator package.
 
-## Getting Started
+Here are some screetshots of this app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo1648318793](https://user-images.githubusercontent.com/73167399/160252474-b061994a-185c-4171-8955-4a09f38c9d78.jpeg)
+![photo1648318793 (1)](https://user-images.githubusercontent.com/73167399/160252485-26508ed2-13a8-4039-8cc5-84fda5c25309.jpeg)
