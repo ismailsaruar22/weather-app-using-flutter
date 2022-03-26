@@ -1,6 +1,6 @@
 # weather_app
 
-It's a live weather app developed using open weather map api.
+It's a flutter based live weather app developed using open weather map api.
 For user location detection I have used geolocator package.
 
 Here are some screetshots of this app
